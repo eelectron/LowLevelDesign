@@ -1,8 +1,9 @@
 package scaler.design.studentExamCourse;
 
-import javax.persistence.Entity;
-import javax.persistence.ManyToOne;
 
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.ManyToOne;
 import lombok.Getter;
 import lombok.Setter;
 

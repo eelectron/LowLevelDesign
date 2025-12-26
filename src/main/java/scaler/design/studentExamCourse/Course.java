@@ -2,9 +2,9 @@ package scaler.design.studentExamCourse;
 
 import java.util.List;
 
-import javax.persistence.Entity;
-import javax.persistence.ManyToMany;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.ManyToMany;
 import lombok.Getter;
 import lombok.Setter;
 

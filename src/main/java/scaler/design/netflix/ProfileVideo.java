@@ -3,10 +3,9 @@ package scaler.design.netflix;
 import java.util.Date;
 import java.util.List;
 
-import javax.persistence.Entity;
-import javax.persistence.ManyToMany;
-import javax.persistence.ManyToOne;
 
+import jakarta.persistence.Entity;
+import jakarta.persistence.ManyToOne;
 import org.springframework.data.annotation.LastModifiedDate;
 
 import lombok.Getter;
