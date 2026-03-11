@@ -16,6 +16,8 @@
 	<description>Learn schema design for student , exam and course</description>
 	<properties>
 		<java.version>25</java.version>
+		<maven.compiler.source>25</maven.compiler.source>
+		<maven.compiler.target>25</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<dependency>
