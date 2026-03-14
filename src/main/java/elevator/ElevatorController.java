@@ -3,7 +3,7 @@ package elevator;
 import java.util.List;
 
 /**
- * Referenced : 
+ * Referenced :
  * https://www.hellointerview.com/learn/low-level-design/problem-breakdowns/elevator
  */
 public class ElevatorController {
