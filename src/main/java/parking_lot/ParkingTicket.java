@@ -11,10 +11,10 @@ public class ParkingTicket {
     private double totalCost;
 
     public double updateTotalCost(){
-
+        return 0;
     }
 
     public Date updateVehicleExitTime(Date date){
-
+        return null;
     }
 }

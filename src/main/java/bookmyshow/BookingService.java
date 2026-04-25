@@ -6,7 +6,7 @@ public class BookingService {
     private BookingRepository bookingRepository;
 
     public Booking createBooing(User user, Show show, List<ShowSeat> showSeatList) {
-
+        return null;
     }
 
     public void confirmBooking(String  bookingId) {
