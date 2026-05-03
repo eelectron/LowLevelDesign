@@ -8,5 +8,6 @@ public class Client {
         game.start();
         System.out.println(game.getSnake());
         System.out.println(game.getFood());
+        System.out.println("Score : " + game.getScore());
     }
 }
